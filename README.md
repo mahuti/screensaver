@@ -2,7 +2,7 @@
 
 This is a screensaver for AttractMode that shows a random Snap at a time in the background, or wrapped in an old-style TV. You can also select a specific video if you only want to show that. 
 
-![Image of Screensaver](https://raw.githubusercontent.com/mahuti/screensaver/master/thumb.png)
+![Image of Screensaver](https://raw.githubusercontent.com/mahuti/screensaver/master/thumb.jpg)
 
 This is based on the original AM screensaver and additions by Talisto
 
