@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////
 //
-// Attract-Mode Frontend -  screensaver script w/ "basic mode" v1.0
+// Attract-Mode Frontend -  screensaver script w/ "basic mode" v2.0
 // Original AM screensaver modified by Talisto <talisto@gmail.com>
 // modified further by Mahuti
 //
